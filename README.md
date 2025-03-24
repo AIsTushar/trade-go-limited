@@ -131,4 +131,5 @@ This project is proprietary and confidential. All rights reserved.
 
 ## 📞 Contact
 
-For any queries, please reach out to Zahidul Turja Trade Go Limited.
+For any queries, please reach out to Azizul Islam Tushar.
+mailto:azizultushar98@gmail.com
