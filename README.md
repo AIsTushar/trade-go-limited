@@ -1,6 +1,6 @@
 # Trade Go Limited Website
 
-A modern, responsive website built with Next.js, Tailwind CSS, and JavaScript for Zahidul Turja Trade Go Limited.
+A modern, responsive website built with Next.js, Tailwind CSS, and JavaScript for Trade Go Limited.
 
 ## 🚀 Quick Start
 
